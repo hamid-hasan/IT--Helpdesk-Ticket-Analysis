@@ -83,7 +83,8 @@ The Power BI dashboard provides:
 - Category Slicer
 - Priority Slicer
 
-
+![IT Help Desk Dashboard]
+(IT Helpdesk- Analytics/IT_Helpdesk_Dashboard.png)
 
 The dashboard allows users to interactively filter and analyze help desk ticket data.
 
